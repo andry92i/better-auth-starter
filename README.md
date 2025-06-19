@@ -1,6 +1,6 @@
 # Better Auth Starter
 
-![ChatGPT Image Jun 9, 2025, 07_09_10 PM](https://github.com/user-attachments/assets/660133ca-5463-4c77-9ece-37280caa229c)
+![ChatGPT Image Jun 9, 2025, 07_09_10 PM](https://avatars.githubusercontent.com/u/163827765?s=200&v=4)
 
 ## Overview
 
